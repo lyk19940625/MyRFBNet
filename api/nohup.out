@@ -1,0 +1,17 @@
+INFO:root:listening to http://192.168.9.234:8099
+INFO:root:wsdl is at: http://192.168.9.234:8099/?wsdl
+Finished loading model!
+Traceback (most recent call last):
+  File "service.py", line 63, in <module>
+    server = make_server('192.168.9.234', 8099, wsgi_app)
+  File "/home/qingqing/anaconda3/envs/python35/lib/python3.5/wsgiref/simple_server.py", line 160, in make_server
+    server = server_class((host, port), handler_class)
+  File "/home/qingqing/anaconda3/envs/python35/lib/python3.5/socketserver.py", line 440, in __init__
+    self.server_bind()
+  File "/home/qingqing/anaconda3/envs/python35/lib/python3.5/wsgiref/simple_server.py", line 51, in server_bind
+    HTTPServer.server_bind(self)
+  File "/home/qingqing/anaconda3/envs/python35/lib/python3.5/http/server.py", line 138, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/home/qingqing/anaconda3/envs/python35/lib/python3.5/socketserver.py", line 454, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
