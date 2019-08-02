@@ -13,15 +13,3 @@
 <img align="right" src="https://github.com/lyk19940625/MyRFBNet/blob/master/results/result.png">
 
 
-
-
-### 引用 RFB Net
-Please cite our paper in your publications if it helps your research:
-
-    @article{liu2017RFB,
-        title = {Receptive Field Block Net for Accurate and Fast Object Detection},
-        author = {Songtao Liu, Di Huang and Yunhong Wang},
-        booktitle = {arxiv preprint arXiv:1711.07767},
-        year = {2017}
-    }
-
