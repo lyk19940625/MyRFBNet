@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="900e0519-77e1-4f19-bd81-02d45682b00c" name="Default" comment="" />
+    <list default="true" id="900e0519-77e1-4f19-bd81-02d45682b00c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +36,41 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1526307284">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="55" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train_RFB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
+            <state relative-caret-position="5425">
               <caret line="232" selection-start-line="232" selection-end-line="232" />
               <folding>
                 <element signature="e#221#258#0" expanded="true" />
@@ -49,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/create_voc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2147">
+            <state relative-caret-position="568">
               <caret line="284" column="33" selection-start-line="284" selection-end-line="285" />
               <folding>
                 <element signature="e#164#173#0" expanded="true" />
@@ -61,10 +91,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/augment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3952">
+            <state relative-caret-position="5200">
               <caret line="210" selection-start-line="210" selection-end-line="210" />
             </state>
           </provider>
@@ -73,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="225">
               <caret line="9" selection-start-line="9" selection-end-line="10" />
             </state>
           </provider>
@@ -87,7 +129,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="25">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
@@ -99,7 +141,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/voc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1083">
+            <state relative-caret-position="1575">
               <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
             </state>
           </provider>
@@ -119,6 +161,9 @@
       <find>VOC_CLASSES</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -127,6 +172,7 @@
         <option value="$PROJECT_DIR$/data/__init__.py" />
         <option value="$PROJECT_DIR$/data/voc.py" />
         <option value="$PROJECT_DIR$/train_RFB.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -137,8 +183,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="317" />
-    <option name="y" value="48" />
+    <option name="x" value="316" />
+    <option name="y" value="47" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -147,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +210,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,10 +283,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16263238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08782435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -296,16 +342,26 @@
     <entry file="file://$PROJECT_DIR$/train_RFB_SDYY.py" />
     <entry file="file://$PROJECT_DIR$/data.py" />
     <entry file="file://$PROJECT_DIR$/data/mytest.py" />
+    <entry file="file://$PROJECT_DIR$/train_RFB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5425">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+          <folding>
+            <element signature="e#221#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/augment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3952">
+        <state relative-caret-position="5200">
           <caret line="210" selection-start-line="210" selection-end-line="210" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="225">
           <caret line="9" selection-start-line="9" selection-end-line="10" />
         </state>
       </provider>
@@ -315,7 +371,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="25">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
@@ -325,28 +381,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/voc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1083">
+        <state relative-caret-position="1575">
           <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train_RFB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="232" selection-start-line="232" selection-end-line="232" />
-          <folding>
-            <element signature="e#221#258#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/create_voc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2147">
+        <state relative-caret-position="568">
           <caret line="284" column="33" selection-start-line="284" selection-end-line="285" />
           <folding>
             <element signature="e#164#173#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
