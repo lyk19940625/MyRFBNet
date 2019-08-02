@@ -10,7 +10,7 @@
 &nbsp;
 
 ### 结果展示
-<img align="right" src="https://github.com/lyk19940625/MyRFBNet/results/result.png">
+<img align="right" src="https://github.com/lyk19940625/MyRFBNet/blob/master/results/result.png">
 
 
 
