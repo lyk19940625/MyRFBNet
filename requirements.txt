@@ -21,7 +21,7 @@ imgaug==0.2.6
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.12.1
-Jinja2==2.10
+Jinja2==2.11.3
 kiwisolver==1.0.1
 lxml==4.2.4
 MarkupSafe
