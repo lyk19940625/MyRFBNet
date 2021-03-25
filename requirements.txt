@@ -47,7 +47,7 @@ PyQt5-sip==4.19.12
 python-dateutil==2.7.3
 pytz==2018.5
 PyWavelets==1.0.1
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 requests==2.19.1
 scikit-image==0.14.0
