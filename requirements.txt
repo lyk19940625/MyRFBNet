@@ -8,7 +8,7 @@ coverage==4.5.1
 cycler==0.10.0
 cypari==2.3.0
 Cython==0.28.5
-dask==0.19.2
+dask==2021.10.0
 decorator==4.3.0
 easydict==1.8
 Flask==1.0.2
