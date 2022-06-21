@@ -28,7 +28,7 @@ MarkupSafe
 matplotlib==2.2.3
 networkx==2.1
 nose==1.3.7
-numpy==1.15.1
+numpy==1.22.0
 opencv-python
 opencv-contrib-python
 parso==0.3.1
